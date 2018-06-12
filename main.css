@@ -39,4 +39,29 @@ ul li {
 #test ul > li.test {
   color: brown;
 }
+
+[src] {
+  width: 100px;
+  height: 100px;
+}
 */
+
+.input {
+  width: 100px;
+  heigh: 100px;
+}
+#years {
+  color: blue;
+}
+.first {
+  color: red;
+  background: blue;
+}
+.second {
+  color: green;
+  background: yellow;
+  font-size: 50px;
+}
+ol {
+  color: brown;
+}
