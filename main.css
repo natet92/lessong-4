@@ -1,0 +1,42 @@
+/*
+p {
+  font-size: 31px;
+}
+
+.new-color {
+  color: blue;
+}
+.first {
+  color: orange;
+}
+div {
+  front-size: 22px;
+}
+
+.new-size {
+  font-size: 44px;
+}
+
+#price {
+  font-family: cursive;
+  font-size: 33px;
+}
+
+div.first {
+  color: green;
+  font-size: 36px;
+}
+div#price {
+  background: red;
+}
+
+ul li {
+  color: blue;
+}
+#test li.test {
+  color: rgb(111, 27, 27);
+}
+#test ul > li.test {
+  color: brown;
+}
+*/
